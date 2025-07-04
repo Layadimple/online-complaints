@@ -1,4 +1,4 @@
-# online-complaints
+# Online-Complaints
 
 A Full Stack MERN platform for online Complaints this will include a frontend for submitting and viewing complaints,a backend for handling API requests.
 
@@ -19,9 +19,10 @@ A Full Stack MERN platform for online Complaints this will include a frontend fo
 - Admin/users can view all complaints and update their status.
 - Responsive UI using Bootstrap.
 
-  ## setup Instructions
+## Setup Instructions
 
-  ### Backend
-  cd server
-  npm install
-  npm run dev
+### Backend
+'''bash
+-cd server
+-npm install
+-npm run dev
